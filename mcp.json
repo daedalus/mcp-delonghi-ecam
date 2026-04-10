@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-delonghi-ecam": {
+      "command": "mcp-delonghi-ecam",
+      "env": {}
+    }
+  }
+}

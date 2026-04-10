@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.daedalus/mcp-delonghi-ecam",
+  "description": "MCP server for DeLonghi ECAM espresso coffee machines via local network",
+  "repository": {
+    "url": "https://github.com/daedalus/mcp-delonghi-ecam",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "mcp-delonghi-ecam",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
