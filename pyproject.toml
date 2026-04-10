@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mcp-delonghi-ecam"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for DeLonghi ECAM espresso coffee machines via local network"
 readme = "README.md"
 requires-python = ">=3.11"
