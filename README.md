@@ -6,7 +6,7 @@ MCP server for DeLonghi ECAM espresso coffee machines via local network control.
 [![Python](https://img.shields.io/pypi/pyversions/mcp-delonghi-ecam.svg)](https://pypi.org/project/mcp-delonghi-ecam/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-mcp-name: "io.github.daedalus/mcp-delonghi-ecam"
+mcp-name: io.github.daedalus/mcp-delonghi-ecam
 
 ## Overview
 
